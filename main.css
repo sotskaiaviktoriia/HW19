@@ -1,0 +1,21 @@
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: #e66465;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #e66465;
+}
+.rectangle {
+  width: 400px;
+  height: 200px;
+  background-color: #e66465;
+}
+.initial-figure {
+  width: 200px;
+  height: 200px;
+  background-color: #e66465;
+}
